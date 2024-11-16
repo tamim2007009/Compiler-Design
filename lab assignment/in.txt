@@ -1,0 +1,22 @@
+// Single line comment
+/* 
+   Multiline comment 
+   explaining the code 
+*/
+inti a;  
+floati b, c;  
+chari d; 
+add a b;       
+sub c a;        
+mul a b;        
+and d c;       
+or b a;          
+eq a b;         
+assign a b;      
+inc a;          
+jodi (a eq b) { 
+    cycle;      
+} najodi {     
+    repeatUntil; 
+}
+func myFunction; 

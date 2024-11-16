@@ -1,0 +1,3 @@
+flex tamim.l
+gcc lex.yy.c
+.\a.exe

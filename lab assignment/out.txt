@@ -1,0 +1,34 @@
+Single line comment-> // Single line comment
+
+Multiline line comment-> /* 
+   Multiline comment 
+   explaining the code 
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+if statement-> jodi
+
+for statement-> cycle
+
+else statement-> najodi
+
+while statement-> repeatUntil
+
+
+function statement-> func
+
+hello Tamim!
+keyword : 8
+variable : 6
+Operator : 9
+ 
